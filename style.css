@@ -1,0 +1,25 @@
+#traffic-light {
+    font-size:2rem;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border: 2px solid black;
+    width: 200px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+}
+.green {
+    background-color: green;
+    color: white;
+}
+.orange {
+    background-color: orange;
+    color: black;
+
+}
+.red {
+  
+    background-color:  red;
+    color: white;
+}
