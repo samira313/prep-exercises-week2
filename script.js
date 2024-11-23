@@ -1,5 +1,5 @@
 "use strict";
-const trafficLight = { state: "green"};
+const trafficLight = { state: "green",};
 
 let rotations = 0;
 while (rotations < 2) { const currentState = trafficLight.state; 
