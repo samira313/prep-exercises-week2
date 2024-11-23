@@ -11,6 +11,6 @@ const trafficLight = {
           } else if (currentState === "orange") { trafficLight.state = "red";
 
            } else if (currentState === "red") { trafficLight.state = "green"; 
-            rotations++; 
+            rotations++;
         }
     }
