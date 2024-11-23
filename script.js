@@ -9,7 +9,7 @@ const trafficLight = {
           console.log("The traffic light is on", currentState); 
           if (currentState === "green") { trafficLight.state = "orange"; 
 
-          } else if (currentState === "orange") { trafficLight.state = "red";
+          } else if (currentState === "orange") { trafficLight.state ="red";
 
            } else if (currentState === "red") { trafficLight.state = "green"; 
             rotations++;
