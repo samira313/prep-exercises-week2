@@ -10,4 +10,8 @@ while (rotations < 2) { const currentState = trafficLight.state;
 
       } else if (currentState === "red") { trafficLight.state = "green";
          rotations++;
+<<<<<<< HEAD
          }};
+=======
+         }}
+>>>>>>> ebf0ba4f7fdcbb61142b297d533f4221004d6381
